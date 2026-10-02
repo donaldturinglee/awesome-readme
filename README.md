@@ -62,7 +62,7 @@ The BASIC template includes a centered header, repository badges, an expandable 
    | `Title`, `Description` | Your project name and a short description. |
    | `github_username`, `repo_name` | The GitHub owner and repository name. |
    | `documentation_url`, `demo_url` | Links to your documentation and demo. |
-   | `your_name`, `your_email` | Your contact name and email address. |
+   | `your_email` | Your contact email address. |
    | `resource_name`, `resource_url`, `resource_image_url` | Names, links, and images for acknowledgements. |
    | `project_license` | The license used by your project. |
 

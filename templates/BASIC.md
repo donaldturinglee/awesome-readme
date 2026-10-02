@@ -159,13 +159,11 @@ Thanks to everyone who has helped improve this project.
 ## Contact
 
 <a href="https://github.com/github_username">
-  <img src="https://github.com/github_username.png" alt="your_name" width="64" height="64" />
+  <img src="https://wsrv.nl/?url=github.com/github_username.png&amp;w=64&amp;h=64&amp;fit=cover&amp;mask=circle&amp;output=png" alt="github_username" width="64" height="64" />
 </a>
 
 <p>
-  your_name &middot; <a href="mailto:your_email">your_email</a>
-  <br />
-  Project: <a href="https://github.com/github_username/repo_name">github_username/repo_name</a>
+  <a href="mailto:your_email">your_email</a>
 </p>
 
 [Back to top](#readme-top)
